@@ -1,0 +1,83 @@
+.tout{
+    height: 470px;
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 430px;
+    background-color: white;
+}
+#lets{
+    margin-bottom: 0px;
+    color: black;
+    padding-left: 130px;
+    margin-top: -28px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#log{
+    color: rgb(82, 180, 82);
+    padding-left: 130px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#titre{
+    margin-top:40px ;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.details{
+    padding-left: 100px;
+    padding-top: 28px;
+}
+#username{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 42px;
+    width: 233px;
+    background-color:rgb(238, 236, 236);
+    border: none;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+#password{
+    margin-bottom: 20px;
+    height: 42px;
+    width: 233px;
+    background-color:rgb(238, 236, 236);
+    border: none;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+#submit{
+    height: 42px;
+    width: 243px;
+    background-color: rgb(70, 139, 70) ;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+#submit:hover{
+    background-color: rgb(125, 211, 125);
+    cursor: pointer;
+}
+#or{
+    margin-top: 10px;
+    padding-left: 200px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 13px;
+}
+#registre{
+    padding: 8px 18px;
+    color: white;
+    background-color: red;
+    font-weight: 500;
+    font-size: 18px;
+    border: none;
+    margin-left: 165px;
+    border-radius: 10px;
+}
+#registre:hover{
+    background-color: rgb(218, 116, 116);
+    cursor: pointer;
+}
